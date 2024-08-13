@@ -4,13 +4,13 @@
     --color-white: hsl(0, 0%, 98%);
     --color-gray: hsl(0, 0%, 41%);
     --color-black: hsl(0, 0%, 8%);
-
 }
 
 body{
     font-family: Epilogue;
     font-size: 18px;
     color: var(--color-black);
+    background-color: var(--color-white);
 }
 
 .btn-outline-dark{
